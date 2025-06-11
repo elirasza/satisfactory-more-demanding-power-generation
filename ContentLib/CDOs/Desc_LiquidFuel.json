@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/Fuel/Desc_LiquidFuel.Default__Desc_LiquidFuel_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 0.09375
+    }
+  ]
+}

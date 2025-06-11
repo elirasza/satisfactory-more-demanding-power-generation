@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_Leaves.Default__Desc_Leaves_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 7.5
+    }
+  ]
+}

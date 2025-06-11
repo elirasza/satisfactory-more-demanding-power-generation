@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/IonizedFuel/Desc_PackagedIonizedFuel.Default__Desc_PackagedIonizedFuel_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 1250
+    }
+  ]
+}

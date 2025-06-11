@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/RawResources/Coal/Desc_Coal.Default__Desc_Coal_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 37.5
+    }
+  ]
+}

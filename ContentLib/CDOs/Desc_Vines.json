@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/GenericBiomass/Desc_Vines.Default__Desc_Vines_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 17.5
+    }
+  ]
+}

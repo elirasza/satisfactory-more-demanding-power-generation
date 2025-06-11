@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/Turbofuel/Desc_LiquidTurboFuel.Default__Desc_LiquidTurboFuel_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 0.25
+    }
+  ]
+}

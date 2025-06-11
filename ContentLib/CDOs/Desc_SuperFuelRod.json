@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/SuperFuelRod/Desc_SuperFuelRod.Default__Desc_SuperFuelRod_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 12500
+    }
+  ]
+}

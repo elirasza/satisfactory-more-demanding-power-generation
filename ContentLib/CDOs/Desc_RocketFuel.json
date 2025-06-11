@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Resource/Parts/RocketFuel/Desc_RocketFuel.Default__Desc_RocketFuel_C",
+  "Edits": [
+    {
+      "Property": "mEnergyValue",
+      "Value": 0.4875
+    }
+  ]
+}
