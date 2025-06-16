@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Buildable/Factory/GeneratorNuclear/Build_GeneratorNuclear.Default__Build_GeneratorNuclear_C",
+  
+  "Edits": [
+    {
+      "Property": "mSupplementalLoadAmount",
+      "Value": 20000
+    },
+    {
+      "Property": "mSupplementalToPowerRatio",
+      "Value": 3.2
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_CDO.json",
+  "Class": "/Game/FactoryGame/Buildable/Factory/GeneratorCoal/Build_GeneratorCoal.Default__Build_GeneratorCoal_C",
+  "Edits": [
+    {
+      "Property": "mSupplementalLoadAmount",
+      "Value": 2000
+    },
+    {
+      "Property": "mSupplementalToPowerRatio",
+      "Value": 20
+    }
+  ]
+}
